@@ -27,9 +27,5 @@ public partial class GestorVideojuegos : IGestorVideojuegos
         return resultado;
     }
     public void LimpiarCatalogo() => JuegosDisponibles.Clear();
-    // TEMPORAL: Se reemplaza en feature/algoritmos
-    public void QuickSort(List<Videojuego> l) => throw new NotImplementedException();
-    public List<Videojuego> MergeSort(List<Videojuego> l) => throw new
-    NotImplementedException();
-    public int BusquedaBinaria(string t) => throw new NotImplementedException();
+
 }
