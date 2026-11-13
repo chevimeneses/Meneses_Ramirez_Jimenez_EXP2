@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Datos\" />
+    <Folder Include="datos\" />
   </ItemGroup>
 
 </Project>
