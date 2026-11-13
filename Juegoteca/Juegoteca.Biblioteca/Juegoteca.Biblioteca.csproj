@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <Folder Include="gestores\" />
-    <Folder Include="interfaces\" />
-    <Folder Include="modelos\" />
     <Folder Include="servicios\" />
   </ItemGroup>
 
